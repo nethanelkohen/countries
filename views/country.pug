@@ -1,0 +1,12 @@
+extends index
+
+block main
+  br
+  h2 #{country.name} 
+  br
+  p Country code: #{country.code}        
+  p Country native name: #{country.nativeName}
+  p Country population: #{country.population}
+  p Country region: #{country.region} 
+  br
+  img(src=country.flag)

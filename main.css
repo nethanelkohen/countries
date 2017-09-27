@@ -1,0 +1,18 @@
+body {
+  background: blue;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+p {
+  color: white;
+}
+
+h2 {
+  text-decoration: overline underline;
+}
+
+img {
+  width: 40%;
+  height: auto%;
+}
